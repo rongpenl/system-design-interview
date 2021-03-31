@@ -39,6 +39,8 @@ the detailed OOD design for a particular function. You may also need to design t
 
 Here are some articles about system design related topics.  
 
+* [The Anatomy Of A System Design Interview](https://blog.pramp.com/system-design-interview-process-e91aae2dbe83)
+* [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
@@ -48,7 +50,7 @@ Here are some articles about system design related topics.
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
-* [A Plain English Introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+* [A Plain English Introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 * [The CAP FAQ](https://github.com/henryr/cap-faq)
 * [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
@@ -71,7 +73,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Etsy Code as Craft](http://codeascraft.com/)
 * [Foursquare Engineering Blog](http://engineering.foursquare.com/)
-* [Airbnb Engineering](http://nerds.airbnb.com/)
+* [Airbnb Engineering](https://medium.com/airbnb-engineering)
 * [WebEngage Engineering Blog](http://engineering.webengage.com/)
 * [LinkedIn Engineering](http://engineering.linkedin.com/blog)
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
@@ -87,7 +89,8 @@ If you are going to have an onsite with a company, you should read their enginee
 * [THE REDDIT BLOG](http://www.redditblog.com/)
 * [Groupon Engineering Blog](https://engineering.groupon.com/)
 * [Songkick Technology Blog](http://devblog.songkick.com/)
-* [Google Research Blog](http://googleresearch.blogspot.com/)
+* [Google AI Blog](https://ai.googleblog.com/)
+* [Google Developers Blog](https://developers.googleblog.com/)
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Bitly Engineering Blog](http://word.bitly.com/)
@@ -98,13 +101,22 @@ If you are going to have an onsite with a company, you should read their enginee
 * [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 * [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 * [Booking.com Development Blog](https://blog.booking.com/)
-* [Scalyr Engineering Blog ](https://blog.scalyr.com/)
+* [Microsoft Engineering Blog](https://engineering.microsoft.com/)
+* [Scalyr Engineering Blog](https://blog.scalyr.com/)
+* [Myntra Engineering Blog](https://medium.com/myntra-engineering)
+* [Fastly Blog](https://www.fastly.com/blog/)
+* [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+* [Lyft Engineering Blog](https://eng.lyft.com/)
+* [Wish Engineering](https://medium.com/wish-engineering)
+* [Doordash Engineering](https://doordash.engineering/)
+* [SnowFlake Blog](https://community.snowflake.com/s/blog) 
+* [Palantir Blog](https://medium.com/palantir/tech/home)
 
 ### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
 The following papers/articles/slides can help you to understand the general design idea of different real products and systems. 
 
-* [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/mapreduce-osdi04.pdf)
+* [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/mapreduce-osdi04.pdf)
 * [Bigtable: A Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
 * [The Google File System](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/gfs-sosp2003.pdf)
 * [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf)
@@ -142,7 +154,7 @@ There are some good references for each question. The references here are slides
 
 **Design a CDN network**  
 Reference:  
-* [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+* [Globally Distributed Content Delivery](https://kilthub.cmu.edu/articles/journal_contribution/Globally_distributed_content_delivery/6605972)
 
 **Design a Google document system**  
 Reference:  
